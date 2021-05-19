@@ -1,0 +1,16 @@
+body {
+
+    background: black;
+    color: white;
+
+}
+
+canvas {
+
+    background: #303030;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+
+}
